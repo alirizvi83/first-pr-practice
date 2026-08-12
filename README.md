@@ -7,7 +7,7 @@ Practice repo for learning the GitHub PR workflow.
 A tiny sandbox repo used to practice the full loop of making a change,
 opening a pull request, and merging it on GitHub.
 
-## Instalation
+## Installation
 
 There's nothing to install — this repo is just for practicing PRs.
 
